@@ -1,4 +1,4 @@
-# criterion_channel_bookmarklets
+# Unofficial Criterion Channel Bookmarklets
 
 ## Purpose
 
